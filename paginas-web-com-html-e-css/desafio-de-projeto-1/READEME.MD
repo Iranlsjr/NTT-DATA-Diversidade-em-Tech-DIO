@@ -8,5 +8,3 @@ Utilizando todas as tags explicadas nas aulas: <h1> até <h6>, <p>, <mark>, <sma
 Utilizar novas tags sugeridas: <font>, <del>, <p>, <abbr> (a ideia é buscar estas tags na internet, entender como ela funciona e utilizar no texto).
 
 realizado pela [DIO.me](https://www.dio.me/) Sobre paginas web com HTML.
-
-
